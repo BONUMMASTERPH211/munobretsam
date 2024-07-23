@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "concurrently": "^8.2.2",
+    "express": "^4.19.2",
+    "faker": "^5.5.3",
+    "fbgraph": "^1.4.4",
+    "qs": "^6.12.3",
+    "request": "^2.88.2",
+    "totp-generator": "^1.0.0"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "run.js",
+  "directories": {
+    "test": "api"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jaspher apusaga",
+  "license": "ISC",
+  "description": "jjohndev api services"
+}
